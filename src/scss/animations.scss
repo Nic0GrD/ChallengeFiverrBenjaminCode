@@ -1,0 +1,17 @@
+@keyframes marquee-left {
+  0%{
+    transform: translateX(0%)
+  }
+  100% {
+    transform: translateX(-894px)
+  }
+}
+
+@keyframes marquee-right {
+  0%{
+    transform: translateX(0%)
+  }
+  100% {
+    transform: translateX(1304px)
+  }
+}
